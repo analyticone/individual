@@ -3,6 +3,6 @@
 - remote
 - fetch
 - merge
--pull
+- pull
 - classroom
-
+- automobile husbandry
